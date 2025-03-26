@@ -1,0 +1,10 @@
+{
+    "makefile.makePath": "C:\\msys64\\usr\\bin",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\uwu\\_Dev\\C++\\compressor",
+            "binaryPath": "c:\\Users\\uwu\\_Dev\\C++\\compressor\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
